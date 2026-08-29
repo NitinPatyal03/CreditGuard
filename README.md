@@ -18,12 +18,15 @@ The project combines a trained Machine Learning model, FastAPI backend, and Reac
 Capture:
 
 Screenshot 1 — Main Dashboard
+
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/0e9fb5b8-7eee-43d6-b747-b5f785b5ea1a" />
 
 Screenshot 2 — Prediction Result
+
 <img width="1827" height="840" alt="image" src="https://github.com/user-attachments/assets/ab978239-736b-40ad-8727-26f3fad9e911" />
 
 Screenshot 3 — API Documentation
+
 <img width="1886" height="977" alt="Screenshot 2026-08-30 011749" src="https://github.com/user-attachments/assets/848f32b1-56b5-498a-b8b2-9a44960caf45" />
 
 

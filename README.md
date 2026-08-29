@@ -7,6 +7,14 @@ CreditGuard is an end-to-end Machine Learning application that predicts credit r
 The project combines a trained Machine Learning model, FastAPI backend, and React frontend to provide an interactive credit risk assessment system.
 
 ---
+## 🚀 Live Demo
+
+**Frontend:** https://creditguard-analytics.netlify.app/
+
+**API:** https://creditguard-004u.onrender.com/
+
+**API Documentation:** https://creditguard-004u.onrender.com/docs
+
 
 ## Features
 

@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://creditguard-004u.onrender.com";
 
 const initialForm = {
   checking_status: "A11",
